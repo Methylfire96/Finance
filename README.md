@@ -1,2 +1,2 @@
 # Finance
-Sockexchange webpage including CSS, JS and SQL. flask run
+Stockexchange webpage including CSS, JS and SQL. flask run
