@@ -1,2 +1,2 @@
 # Finance
-HTML Finance page with CSS, JS and SQL
+Sockexchange webpage including CSS, JS and SQL. flask run
